@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+Thumbs.db
+*.deb
+
+# Ignore dirs
+/target/
+/resources/*.png
